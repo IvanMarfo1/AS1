@@ -15,14 +15,14 @@ body {
 main {
     padding: 0px;
     text-align: center;
-    grid-area: "main";
+    grid-area: main;
 }
 h1 {
     text-align: center;
     padding: 40px;
     color: rgb(121, 13, 13);
     font-size: 3em;
-    grid-area: "header";
+    grid-area: header;
 }
 
 /* Initially hide nav */
@@ -36,7 +36,7 @@ nav {
     left: 50%;
     width: 50%;
     height: 100vh;
-    grid-area: "nav";
+    grid-area: nav;
 }
 
 footer {
@@ -44,7 +44,7 @@ footer {
     padding: 20px;
     color: white;
     
-    grid-area: "footer";
+    grid-area: footer;
 }
 
 ul{
